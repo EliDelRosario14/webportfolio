@@ -100,11 +100,12 @@ font-size: 18px;
   border: 2px solid blueviolet;
   padding: 20px;
   height: 60%;
-  margin-right: auto;
+  margin-right: ;
   margin-top: 20%;
   max-width: 400px;
   overflow: hidden;
   box-shadow: 4px 2px 6px;
+
 }
 
 .projects
@@ -335,6 +336,7 @@ button:hover {
   display: flex;
   overflow-x: auto;
   scroll-behavior: smooth;
+  
 }
 
 .logo-container::-webkit-scrollbar {
